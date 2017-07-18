@@ -18,7 +18,6 @@ const devConfig = {
 		...config.entry as object,
 		bundle: [
 			'webpack-hot-middleware/client',
-			'react-hot-loader/patch',
 			...(config.entry as { bundle: string[] }).bundle,
 		],
 	},
@@ -28,7 +27,6 @@ const devConfig = {
 			{
 				test: /\.tsx?$/,
 				use: [
-					'react-hot-loader/webpack',
 					{
 						loader: 'ts-loader',
 						options: {
