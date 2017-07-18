@@ -2,3 +2,5 @@ dist/
 public/vendor.bundle.js
 public/vendor.bundle.js.map
 generated/
+node_modules/
+npm-debug.log
