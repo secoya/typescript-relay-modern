@@ -1,0 +1,6 @@
+{
+	"extends": "tslint-secoya",
+	"rules": {
+		"no-relative-imports": false
+	}
+}
