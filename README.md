@@ -1,7 +1,7 @@
 # Relay Modern TodoMVC with TypeScript #
 
 **DO NOT USE**
-This was an early prototype showing one possible way of making TypeScript with Relay modern working. There's a PR incoming into Relay modern allowing a language plugin to make this possible instead. See [facebook/relay#2293](https://github.com/facebook/relay/pull/2293) and [relay-tools/relay-compiler-language-typescript](relay-tools/relay-compiler-language-typescript). 
+This was an early prototype showing one possible way of making TypeScript with Relay modern working. There's a PR incoming into Relay modern allowing a language plugin to make this possible instead. See [facebook/relay#2293](https://github.com/facebook/relay/pull/2293) and [relay-tools/relay-compiler-language-typescript](https://github.com/relay-tools/relay-compiler-language-typescript). 
 
 This is an example application showing one of many ways to integrate TypeScript with Relay Modern.
 
